@@ -1,10 +1,6 @@
-### Hi there 👋
+### 안녕하세요 👋
 
-![siggu's github stats](https://github-readme-stats.vercel.app/api?username=siggu&show_icons=true)
 [![siggu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siggu&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/siggu)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=siggu&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div><h3>📚 STACKS</h3></div>
